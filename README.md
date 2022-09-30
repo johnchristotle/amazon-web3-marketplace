@@ -32,3 +32,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## On Moralis Database Class (Settings)
+
+**_User:**
+* bojectId (String), emailVerified (boolean), accounts (Array), ownedAssets (Array), ACL (ACL), nickname (String), updatedAt (Date), authDate (Object), username (String), createdAt (Date), password (String), email (String) 
+
+**assets:**
+* bojectId (String), createdAt (Date), updatedAt (Date), ACL (ACL), name (String), price (String), src (String), etherscanLink (String)
+
+* EthNFTTransfers
+
+* EthTokenTransfers
+
+* EthTransactions
+
+also auto filled: e.g:
+
+* _AddressSyncStatus
+* _EthAddress
+* _Role
+* _Session
