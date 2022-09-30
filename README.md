@@ -37,10 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## On Moralis Database Class (Settings)
 
 **_User:**
-* bojectId (String), emailVerified (boolean), accounts (Array), ownedAssets (Array), ACL (ACL), nickname (String), updatedAt (Date), authDate (Object), username (String), createdAt (Date), password (String), email (String) 
+* objectId (String), emailVerified (boolean), accounts (Array), ownedAssets (Array), ACL (ACL), nickname (String), updatedAt (Date), authDate (Object), username (String), createdAt (Date), password (String), email (String) 
 
 **assets:**
-* bojectId (String), createdAt (Date), updatedAt (Date), ACL (ACL), name (String), price (String), src (String), etherscanLink (String)
+* objectId (String), createdAt (Date), updatedAt (Date), ACL (ACL), name (String), price (String), src (String), etherscanLink (String)
 
 * EthNFTTransfers
 
